@@ -1,2 +1,4 @@
 # Practice-Git
-ajsudjjdsj
+**This repository is for git practice**
+
+*Thanks for visiting :)*
