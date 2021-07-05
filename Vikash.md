@@ -1,3 +1,5 @@
-# Vikash Singh
+# **Vikash Singh**
 
-## Java, Kotlin, Android Development
+## *Java, Kotlin, Android Developer*
+
+### **Learning and Building something new everyday**
